@@ -1,0 +1,11 @@
+C:\Projects\dotnet\tutorial-web-api\bin\Debug\netcoreapp2.0\tutorial-web-api.deps.json
+C:\Projects\dotnet\tutorial-web-api\bin\Debug\netcoreapp2.0\tutorial-web-api.runtimeconfig.json
+C:\Projects\dotnet\tutorial-web-api\bin\Debug\netcoreapp2.0\tutorial-web-api.runtimeconfig.dev.json
+C:\Projects\dotnet\tutorial-web-api\bin\Debug\netcoreapp2.0\tutorial-web-api.dll
+C:\Projects\dotnet\tutorial-web-api\bin\Debug\netcoreapp2.0\tutorial-web-api.pdb
+C:\Projects\dotnet\tutorial-web-api\obj\Debug\netcoreapp2.0\tutorial-web-api.csprojAssemblyReference.cache
+C:\Projects\dotnet\tutorial-web-api\obj\Debug\netcoreapp2.0\tutorial-web-api.csproj.CoreCompileInputs.cache
+C:\Projects\dotnet\tutorial-web-api\obj\Debug\netcoreapp2.0\tutorial-web-api.AssemblyInfoInputs.cache
+C:\Projects\dotnet\tutorial-web-api\obj\Debug\netcoreapp2.0\tutorial-web-api.AssemblyInfo.cs
+C:\Projects\dotnet\tutorial-web-api\obj\Debug\netcoreapp2.0\tutorial-web-api.dll
+C:\Projects\dotnet\tutorial-web-api\obj\Debug\netcoreapp2.0\tutorial-web-api.pdb
